@@ -1,4 +1,4 @@
-# Olá, eu sou Guilherme Alves 👋
+# Olá, eu sou Paulo Alves 👋
 
 **Software Developer** construindo soluções full-stack com foco em arquitetura SaaS, APIs e infraestrutura. Também estou em formação acadêmica em desenvolvimento de software — e atualmente em estágio na área, atuando com desenvolvimento técnico real.
 
